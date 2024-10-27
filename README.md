@@ -1,4 +1,4 @@
-# EPN-Lectures 
+# EPN-Lecture_s 
 
 Profesor: M.Sc. Lenin G. Falconí
 
